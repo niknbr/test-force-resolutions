@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx force-resolutions",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "resolutions": {
+    "trim": "0.0.3"
   },
   "author": "",
   "license": "ISC",
