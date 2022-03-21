@@ -1,0 +1,14 @@
+{
+  "name": "test-force-res",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@elastic/eui": "^52.0.0"
+  }
+}
