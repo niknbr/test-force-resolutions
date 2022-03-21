@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@elastic/eui": "^52.0.0"
+  },
+  "devDependencies": {
+    "force-resolutions": "^1.0.10"
   }
 }
